@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hey, I'm Maharshi Patel</h1>
+<h1 align="center"> Hey, I'm Maharshi Patel</h1>
 
 <p align="center">
-  🚀 <b>AI & XR Developer</b> | 🎮 <b>Unity Automation</b> | ☁️ <b>Cloud + DevOps Engineer</b><br>
+   <b>AI & XR Developer</b> |  <b>Unity Automation</b> |  <b>Cloud + DevOps Engineer</b><br>
   <a href="https://maharshi-patel.com/">🌐 Portfolio</a> • 
   <a href="https://www.linkedin.com/in/maharshi-patel1/">💼 LinkedIn</a> • 
   <a href="mailto:mpate125@asu.edu">📧 Email</a>
@@ -9,12 +9,12 @@
 
 ---
 
-### 🧠 About Me  
+###  About Me  
 I’m a **Computer Science student at ASU** passionate about building **AI-powered**, **automation-driven**, and **immersive systems**.  
 My work blends **VR engineering**, **AI automation**, and **software scalability** — from Unity pipelines to cloud-native apps.
 
-💡 Currently exploring **LangChain**, **AI agents**, and **Unity CI/CD automation**  
-🎯 Goal: Build systems that merge intelligence, design, and real-time interactivity.
+ Currently exploring **LangChain**, **AI agents**, and **Unity CI/CD automation**  
+ Goal: Build systems that merge intelligence, design, and real-time interactivity.
 
 ---
 
@@ -102,4 +102,4 @@ integrating WHOOP-style health data simulation and workflow optimization.
 
 ---
 
-⭐ *“Engineering intelligence into every line of code.”*
+ *“Engineering intelligence into every line of code.”*
